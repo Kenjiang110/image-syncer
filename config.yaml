@@ -3,7 +3,9 @@ auth:
     username: USERNAME
     password: PASSWORD
 images:
-  "gcr.io/google_samples/gb-redis-follower:v2": "registry.cn-hangzhou.aliyuncs.com/jgx-study/gcr"
+  "gcr.io/google_samples/gb-redis-follower:v2": "registry.cn-hangzhou.aliyuncs.com/jgx-study/gcr/gb-redis-follower:v2",
+  "gcr.io/google_samples/gb-frontend:v5": "registry.cn-hangzhou.aliyuncs.com/jgx-study/gcr/gb-frontend:v5"
+  
   
   
   
